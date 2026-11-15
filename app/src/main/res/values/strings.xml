@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Kairo</string>
+    <string name="new_chat">New chat</string>
+    <string name="providers_and_settings">Providers &amp; App Settings</string>
+    <string name="ai_disclaimer">AI can make mistakes. Verify important information.</string>
+    <string name="temporary_chat_banner">Temporary chat · Messages are not saved to history</string>
+    <string name="search_chats_hint">Search conversations…</string>
+    <string name="message_placeholder">Message %1$s…</string>
+    <string name="reply_placeholder">Reply to %1$s</string>
+</resources>

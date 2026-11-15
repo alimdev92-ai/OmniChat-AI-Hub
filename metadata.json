@@ -1,0 +1,6 @@
+{
+  "name": "Kairo",
+  "description": "An advanced multi-provider AI chat client with built-in Gemini AI, custom model and provider management, multimodal attachments, and editorial chat experience.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
